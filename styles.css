@@ -12,9 +12,11 @@ body {
 
     line-height: 1.6; 
 
-} header { 
+} 
 
-    background-color: #4CAF50; 
+header { 
+
+    background-color: #f9f5f8d4; 
 
     color: white; 
 
@@ -44,10 +46,88 @@ nav a {
 
 } 
 
- 
-
 nav a:hover { 
 
     text-decoration: underline; 
+
+}
+ main { 
+
+    padding: 20px; 
+
+    max-width: 800px; 
+
+    margin: 0 auto; 
+
+} 
+
+ 
+
+main img { 
+
+    max-width: 100%; 
+
+    height: auto; 
+
+    display: block; 
+
+    margin: 20px 0; 
+
+} 
+footer { 
+
+    background-color: #ec23c1; 
+
+    color: white; 
+
+    text-align: center; 
+
+    padding: 10px; 
+
+    position: fixed; 
+
+    bottom: 0; 
+
+    width: 100%; 
+
+} 
+
+p { 
+
+    font-size: 1.1em; 
+
+} 
+
+ 
+
+a { 
+
+    color: #f0f4f0; 
+
+    text-decoration: none; 
+
+} 
+
+ 
+
+a:hover { 
+
+    text-decoration: underline; 
+
+} 
+
+img { 
+
+    border: 5px solid #1bd747; 
+
+    border-radius: 10px; 
+
+} 
+
+main a[href^="mailto:"] { 
+
+    color: #3664d1; 
+
+    font-weight: bold; 
 
 } 
