@@ -118,7 +118,7 @@ a:hover {
 
 img { 
 
-    border: 5px solid #1bd747; 
+    border: 5px solid #e8ece9; 
 
     border-radius: 10px; 
 
@@ -126,7 +126,7 @@ img {
 
 main a[href^="mailto:"] { 
 
-    color: #3664d1; 
+    color: #d136b5; 
 
     font-weight: bold; 
 
